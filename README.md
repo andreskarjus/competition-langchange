@@ -1,2 +1,1 @@
-# competition-langchange
- 
+Code to run the lexical competition model (and topical advection model) on a diachronic corpus (like COHA), as described in Karjus et al 2020, "Communicative need modulates competition in language change".
